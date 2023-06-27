@@ -1,0 +1,56 @@
+{
+  "respuesta": {
+    "operacion_exitosa": true,
+    "mensajes": []
+  },
+  "paginacion": {
+    "total_items": 10,
+    "total_paginas": 1,
+    "items_por_pagina": 10,
+    "pagina_actual": 1,
+    "pagina_siguiente": null,
+    "pagina_anterior": null
+  },
+  "items": [
+    {
+      "id": 2,
+      "nombre": "Casa"
+    },
+    {
+      "id": 8,
+      "nombre": "Cochera"
+    },
+    {
+      "id": 1,
+      "nombre": "Departamento"
+    },
+    {
+      "id": 6,
+      "nombre": "Depósito"
+    },
+    {
+      "id": 9,
+      "nombre": "Edificio en Block"
+    },
+    {
+      "id": 10,
+      "nombre": "Fondo de Comercio"
+    },
+    {
+      "id": 3,
+      "nombre": "Local"
+    },
+    {
+      "id": 4,
+      "nombre": "Oficina"
+    },
+    {
+      "id": 5,
+      "nombre": "Terreno"
+    },
+    {
+      "id": 7,
+      "nombre": "Turístico"
+    }
+  ]
+}

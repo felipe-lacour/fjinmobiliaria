@@ -1,0 +1,28 @@
+{
+  "respuesta": {
+    "operacion_exitosa": true,
+    "mensajes": []
+  },
+  "paginacion": {
+    "total_items": 3,
+    "total_paginas": 1,
+    "items_por_pagina": 10,
+    "pagina_actual": 1,
+    "pagina_siguiente": null,
+    "pagina_anterior": null
+  },
+  "items": [
+    {
+      "id": 3,
+      "nombre": "Alq. Temporario"
+    },
+    {
+      "id": 1,
+      "nombre": "Alquiler"
+    },
+    {
+      "id": 2,
+      "nombre": "Venta"
+    }
+  ]
+}

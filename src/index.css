@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.h-nordelta{
+  height: calc(100vh - 80px);
+}
+
+.bg-gradient{
+  background: rgb(71,85,105);
+  background: linear-gradient(140deg, rgba(71,85,105,1) 10%, rgba(156,163,175,1) 47%, rgba(243,244,246,1) 96%);
+}
+
+*{
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+*::-webkit-scrollbar{
+  display: none;
+}

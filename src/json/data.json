@@ -1,0 +1,52 @@
+[
+  {
+    "id":"8af2c6cc-32af-4ab4-b34f-fa20a691b8b6",
+    "address": "123 Main St",
+    "price": 250000,
+    "square_footage": 2000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type":"CASA",
+    "operation": "VENTA"
+  },
+  {
+    "id":"85c21a3a-9f3a-4734-97c8-21a0206c7989",
+    "address": "456 Elm St",
+    "price": 350000,
+    "square_footage": 3000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "type":"CASA",
+    "operation": "VENTA"
+  },
+  {
+    "id":"1dcdf8f8-1f1d-4d9c-9edf-68f7cb5f690c",
+    "address": "789 Oak St",
+    "price": 150000,
+    "square_footage": 1500,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type":"CASA",
+    "operation": "VENTA"
+  },
+  {
+    "id":"59a745ee-43f1-4d88-9679-2a3c3d33f356",
+    "address": "1011 Pine St",
+    "price": 450000,
+    "square_footage": 4000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "type":"CASA",
+    "operation": "VENTA"
+  },
+  {
+    "id":"7db56a24-1777-4d8d-9e03-c743b0a3f17a",
+    "address": "1213 Maple St",
+    "price": 200000,
+    "square_footage": 1800,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type":"CASA",
+    "operation": "VENTA"
+  }
+]
